@@ -119,7 +119,7 @@ kaggle competitions download -c house-prices-advanced-regression-techniques
 **Локально**
 
 ```bash
-git clone https://github.com/FDB1228/House_prices.git
+git clone https://github.com/FDB1228/house_prices.git
 cd House_prices
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
