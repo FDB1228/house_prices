@@ -1,0 +1,19 @@
+# Данные соревнования (не распространяются, скачиваются с Kaggle)
+data/
+*.csv
+*.zip
+
+# Секреты
+kaggle.json
+.env
+
+# Python и окружения
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter и ОС
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
