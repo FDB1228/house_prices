@@ -2,7 +2,7 @@
 
 Проект по данным соревнования Kaggle [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques): по 79 характеристикам дома в городе Эймс (Айова, США) предсказать цену продажи `SalePrice`.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FDB1228/House_prices/blob/main/notebooks/house_prices.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FDB1228/house_prices/blob/main/house_prices.ipynb)
 
 **Коротко:**
 
